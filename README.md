@@ -1,4 +1,4 @@
-Sure! Here's a detailed README file for your **Training Records Management System (TRMS)** project:
+ **Training Records Management System (TRMS)** project:
 
 ---
 
@@ -134,7 +134,4 @@ If you want to contribute to this project, feel free to fork the repository, cre
 - **FileSaver.js**: For file export functionality.
 - **html2pdf.js**: For PDF generation from HTML content.
 - **SheetJS**: For handling CSV and Excel files.
-
----
-
-This README gives an overview of the system, installation steps, and instructions for use, contributing, and future improvements, making it a useful resource for anyone using or contributing to the TRMS project on GitHub.
+ 
